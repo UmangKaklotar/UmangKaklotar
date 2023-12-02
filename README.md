@@ -1,4 +1,4 @@
-# Hi 👋, I'm Umang Kaklotar
+# <center>Hi 👋, I'm Umang Kaklotar</center>
 
 <!--
 **UmangKaklotar/UmangKaklotar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
