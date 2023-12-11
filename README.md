@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Flutter Application Development...<br>📫 How to reach me umangkaklotar02@gmail.com
 
-
+---
 [![](https://visitcount.itsvg.in/api?id=umangkaklotar&icon=6&color=12)](https://visitcount.itsvg.in)
 
 
@@ -26,7 +26,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
